@@ -1,0 +1,3 @@
+# MyBatisGenerator
+Mybatis逆向工程java代码生成mybatis所需要的东西的一个简单小示例。
+下载项目后，可直接导入到本地IDE中，直接运行MyGeneartor中的main函数即可生成Mybatis所需的代码(java文件和XML文件)。
